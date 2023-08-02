@@ -1,0 +1,94 @@
+{
+	"id": "maa",
+	"title": "Muffi's Additional Additions",
+	"version": "1.0.0",
+	"compatibility": {
+		"minimum": "10",
+		"verified": "11"
+	},
+	"relationships": {
+		"systems": [
+		{
+			"id": "pf2e",
+			"type": "system",
+			"compatibility": {}
+		}
+		]
+	},
+	"authors": [{
+		"name": "Muffi",
+		"flags": {}
+		}
+	],
+	"packs": [{
+		"name": "ancestries",
+		"label": "Ancestries",
+		"path": "packs/ancestries",
+		"type": "Item",
+		"ownership": {
+			"PLAYER": "OBSERVER",
+			"ASSISTANT": "OWNER"
+			},
+		"system": "pf2e",
+		"flags": {}
+		},
+		{
+		"name": "heritages",
+		"label": "Heritages",
+		"path": "packs/heritages",
+		"type": "Item",
+		"ownership": {
+			"PLAYER": "OBSERVER",
+			"ASSISTANT": "OWNER"
+			},
+		"system": "pf2e",
+		"flags": {}
+		},
+		{
+		"name": "feats",
+		"label": "Feats",
+		"path": "packs/feats",
+		"type": "Item",
+		"ownership": {
+			"PLAYER": "OBSERVER",
+			"ASSISTANT": "OWNER"
+			},
+		"system": "pf2e",
+		"flags": {}
+		},
+		{
+		"name": "spell-effects",
+		"label": "Spell Effects",
+		"path": "packs/spell-effects",
+		"type": "Item",
+		"ownership": {
+			"PLAYER": "OBSERVER",
+			"ASSISTANT": "OWNER"
+			},
+		"system": "pf2e",
+		"flags": {}
+		}
+	],
+	"packFolders": [{
+        "name": "Muffi's Additional Additions",
+        "sorting": "m",
+		"folders": [
+			{
+				"name": "Character Building",
+                "sorting": "m",
+                "packs": [
+                    "ancestries",
+                    "heritages",
+					"feats"
+				]
+			},
+			{
+				"name": "Effects",
+				"sorting": "m",
+				"packs": [
+					"spell-effects"
+				]
+			}
+		]
+    }]
+}
