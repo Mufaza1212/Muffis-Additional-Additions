@@ -1,6 +1,6 @@
 {
-	"id": "maa",
-	"title": "Muffi's Additional Additions",
+	"id": "maa-dev",
+	"title": "Muffi's Additional Additions (Dev)",
 	"version": "1.0.1",
 	"compatibility": {
 		"minimum": "10",
