@@ -93,6 +93,6 @@
 		]
     	}],
 	"url": "https://github.com/Mufaza1212/Muffis-Additional-Additions",
-	"manifest": "https://github.com/Mufaza1212/Muffis-Additional-Additions/releases/download/testing/module.json",
+	"manifest": "https://raw.githubusercontent.com/Mufaza1212/Muffis-Additional-Additions/dev/module.json",
 	"download": "https://github.com/Mufaza1212/Muffis-Additional-Additions/releases/download/testing/Muffis-Additional-Additions.zip"
 }
