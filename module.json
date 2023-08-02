@@ -70,28 +70,29 @@
 		}
 	],
 	"packFolders": [
-		{
-        	"name": "Muffi's Additional Additions",
-        	"sorting": "m",
-		"folders": [
-			{
-				"name": "Character Building",
-                		"sorting": "m",
-                		"packs": [
-					"ancestries",
-					"heritages",
-					"feats"
-				]
-			},
-			{
-				"name": "Effects",
-				"sorting": "m",
-				"packs": [
-					"spell-effects"
-				]
-			}
-		]
-    	}],
+        {
+            "name": "Muffi's Additional Additions (Dev)",
+            "sorting": "m",
+            "folders": [
+                {
+                    "name": "Character Building",
+                    "sorting": "m",
+                    "packs": [
+			"ancestries",
+			"feats",
+			"heritages"
+                    ]
+                },
+                {
+                    "name": "Effects",
+                    "sorting": "m",
+                    "packs": [
+                        "spell-effects"
+                    ]
+                }
+            ]
+        }
+    ],
 	"url": "https://github.com/Mufaza1212/Muffis-Additional-Additions",
 	"manifest": "https://raw.githubusercontent.com/Mufaza1212/Muffis-Additional-Additions/dev/module.json",
 	"download": "https://github.com/Mufaza1212/Muffis-Additional-Additions/releases/download/testing/Muffis-Additional-Additions-dev.zip"
