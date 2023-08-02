@@ -73,24 +73,12 @@
         {
             "name": "Muffi's Additional Additions (Dev)",
             "sorting": "m",
-            "folders": [
-                {
-                    "name": "Character Building",
-                    "sorting": "m",
-                    "packs": [
-			"ancestries",
-			"feats",
-			"heritages"
-                    ]
-                },
-                {
-                    "name": "Effects",
-                    "sorting": "m",
-                    "packs": [
-                        "spell-effects"
-                    ]
-                }
-            ]
+            "packs": [
+		    "anscestries",
+		    "feats",
+		    "heritages",
+		    "spell-effects"
+	    ]
         }
     ],
 	"url": "https://github.com/Mufaza1212/Muffis-Additional-Additions",
